@@ -2,7 +2,6 @@
 *.iml
 out/
 *.class
-/configs/*
 /bin/
 /vendor/
 *.exe
